@@ -1,3 +1,3 @@
 # InvestSage-Automation
-Author - Abdul Wasay Tashfeen
+Author - Abdul Wasay
 
